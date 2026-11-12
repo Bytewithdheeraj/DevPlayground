@@ -6,7 +6,7 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 1 | 0 | 0 |
+| 2 | 2 | 0 | 0 |
 
 ## Activity
 
@@ -16,7 +16,7 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-12 | 1 |
+| 2026-11-12 | 2 |
 
 ## Top Tags
 
