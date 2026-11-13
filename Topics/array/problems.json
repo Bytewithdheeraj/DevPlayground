@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-11-13T12:38:24.103Z",
+  "problems": [
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1470-shuffle-the-array.cpp",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
+          "sha": "08232a4800fd79143e4fd3842ac593c65c9f8786",
+          "lastSyncedAt": "2026-11-13T12:38:24.103Z"
+        }
+      ]
+    }
+  ]
+}
