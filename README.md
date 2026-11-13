@@ -6,7 +6,7 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 6 | 0 | 0 |
+| 7 | 7 | 0 | 0 |
 
 ## Activity
 
@@ -17,16 +17,17 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 | Date | Problems |
 | --- | ---: |
 | 2026-11-12 | 2 |
-| 2026-11-13 | 4 |
+| 2026-11-13 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| - | 0 | 0% |
+| Array | 1 | 14% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
+| [Array](Topics/array/) | 1 |
 <!---LeetHub Summary End-->
