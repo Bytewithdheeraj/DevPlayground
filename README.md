@@ -6,17 +6,18 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 2 | 2 | 0 | 0 |
+| 3 | 3 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 2 days | 2 days | 2 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-11-12 | 2 |
+| 2026-11-13 | 1 |
 
 ## Top Tags
 
