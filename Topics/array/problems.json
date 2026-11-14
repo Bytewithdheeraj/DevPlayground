@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T12:38:24.103Z",
+  "updatedAt": "2026-11-14T05:48:28.161Z",
   "problems": [
     {
       "frontendId": "1470",
@@ -24,6 +24,26 @@
           "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
           "sha": "08232a4800fd79143e4fd3842ac593c65c9f8786",
           "lastSyncedAt": "2026-11-13T12:38:24.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3364-minimum-positive-sum-subarray.cpp",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
+          "sha": "49be3ee19aea0c1f45ed0c4ce285a43afeaf8698",
+          "lastSyncedAt": "2026-11-14T05:48:28.161Z"
         }
       ]
     }
