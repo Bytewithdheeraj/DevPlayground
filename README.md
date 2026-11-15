@@ -6,7 +6,7 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 9 | 8 | 1 | 0 |
+| 10 | 8 | 2 | 0 |
 
 ## Activity
 
@@ -19,23 +19,25 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 | 2026-11-12 | 2 |
 | 2026-11-13 | 5 |
 | 2026-11-14 | 1 |
-| 2026-11-15 | 1 |
+| 2026-11-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 22% |
-| Dynamic Programming | 1 | 11% |
-| Math | 1 | 11% |
-| Prefix Sum | 1 | 11% |
+| Array | 3 | 30% |
+| Prefix Sum | 2 | 20% |
+| Dynamic Programming | 1 | 10% |
+| Hash Table | 1 | 10% |
+| Math | 1 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Hash Table](Topics/hash-table/) | 1 |
 | [Math](Topics/math/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 <!---LeetHub Summary End-->
