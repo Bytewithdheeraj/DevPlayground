@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T04:29:43.374Z",
+  "updatedAt": "2026-11-15T04:35:20.904Z",
   "problems": [
+    {
+      "frontendId": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "problemName": "0974-subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+      "folderPath": "0974-subarray-sums-divisible-by-k/",
+      "readmePath": "0974-subarray-sums-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0974-subarray-sums-divisible-by-k.cpp",
+          "path": "0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.cpp",
+          "sha": "1842dbc7ecaba14983e21b6aef02f88187483403",
+          "lastSyncedAt": "2026-11-15T04:35:20.904Z"
+        }
+      ]
+    },
     {
       "frontendId": "1470",
       "title": "Shuffle the Array",
