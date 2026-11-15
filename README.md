@@ -6,7 +6,7 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 11 | 9 | 2 | 0 |
+| 12 | 10 | 2 | 0 |
 
 ## Activity
 
@@ -19,17 +19,17 @@ A hands-on collection of my programming journey, featuring JavaScript, TypeScrip
 | 2026-11-12 | 2 |
 | 2026-11-13 | 5 |
 | 2026-11-14 | 1 |
-| 2026-11-15 | 3 |
+| 2026-11-15 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 3 | 27% |
-| Prefix Sum | 2 | 18% |
-| Dynamic Programming | 1 | 9% |
-| Hash Table | 1 | 9% |
-| Math | 1 | 9% |
+| Array | 3 | 25% |
+| Prefix Sum | 2 | 17% |
+| Dynamic Programming | 1 | 8% |
+| Hash Table | 1 | 8% |
+| Math | 1 | 8% |
 
 ## Topics
 
